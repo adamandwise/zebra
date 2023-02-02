@@ -8,7 +8,22 @@
     <title>Document</title>
 </head>
 <body>
- <h1> Hello </h1>
+ <h1> happy birthday!</h1>
+ <form>
+ <label for="name">Name:</label>
+ <input type="text" id="name" name="name"><br><br>
+
+ <label for="email">Email:</label>
+ <input type="email" id="email" name="email"><br><br>
+
+ <label for="birthday">Birthday:</label>
+ <input type="date" id="birthday" name="birthday"><br><br>
+
+ <label for="guests">Number of guests:</label>
+ <input type="number" id="guests" name="guests" min="1" max="100"><br><br>
+
+ <input type="submit" value="Submit">
+ </form>
 </body>
 </html>
 <?php?>
