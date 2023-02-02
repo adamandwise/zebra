@@ -24,8 +24,6 @@
 
  <input type="submit" value="Submit">
  </form>
-
-<h1>Gobbledigook</h1>
 </body>
 </html>
 <?php?>
