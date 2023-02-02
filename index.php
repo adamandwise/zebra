@@ -25,6 +25,7 @@
  <input type="submit" value="Submit">
  </form>
 <p>Tom is adding this to the file</p>
+<p> making edits</p>
 </body>
 </html>
 <?php?>
